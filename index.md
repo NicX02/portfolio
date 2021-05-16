@@ -263,15 +263,15 @@
             <div class="column" data-aos="fade-up">
                 <div class="folio-item">
                     <div class="folio-item__thumb">
-                        <a class="folio-item__thumb-link" href="images/portfolio/gallery/missingPhoto.png" title="Music Life" data-size="1050x700">
-                            <img src="images/portfolio/missingPhoto.png" 
-                                 srcset="images/portfolio/missingPhoto.png" alt="">
+                        <a class="folio-item__thumb-link" href="images/portfolio/gallery/theBricksScreen.png" title="The Bricks" data-size="1050x700">
+                            <img src="images/portfolio/theBricksScreen.png" 
+                                 srcset="images/portfolio/theBricksScreen.png" alt="">
                         </a>
                     </div>
                     <div class="folio-item__info">
                         <h4 class="folio-item__title">The Bricks</h4>
                     </div>
-                    <a href="https://www.behance.net/" title="Project Link" class="folio-item__project-link">Project Link</a>
+                    <a href="https://nicx02.github.io/theBricks/" title="Project Link" class="folio-item__project-link">Project Link</a>
                     <div class="folio-item__caption">
 
                     </div>
